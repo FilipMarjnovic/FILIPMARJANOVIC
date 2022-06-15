@@ -1,0 +1,29 @@
+body{
+    background: url('AA/1.jpg');
+}
+.sveukupno{
+    background-color: rgba(250, 176, 91, 0.356);
+    text-align: center;
+    width: 60%;
+    height: 100%;
+    margin: auto;
+    border: 2px solid gray;
+}
+
+.sveukupno h1{
+    background-color: gray;
+    color: white;
+    color: rgb(53, 16, 16);
+}
+.sveukupno p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center; 
+    padding: 7px;
+color: rgb(92, 5, 5);
+}
+.sveukupno .slike img{
+    width: 100px;
+    height: auto;
+margin-top: 9px;
+
+}
